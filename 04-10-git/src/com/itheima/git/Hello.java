@@ -5,6 +5,7 @@ public class Hello {
         System.out.println("hello git project");
         show();
         //hello test
+        //lian ya jun update
     }
 
     public static void show() {
